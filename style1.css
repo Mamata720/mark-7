@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("dark.webp");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1{
+    height: 100px;
+    color:white;
+    text-align: center;
+    margin-top: 4%;
+    font-family:  'Kalam', cursive;
+    font-size: 50px;
+}
+textarea {
+    font-size: 20px;
+    border: 2px solid black;
+    width: 30%;
+    height: 8vh;
+    display: block;
+    margin: 1rem;
+    padding: 3rem;
+    border-radius: 4px;
+    color: red;
+    
+    margin-left:32%;
+}
+#btn-btn{
+    height: 70px;
+    width: 17%;
+    margin-left: 40%;
+    margin-top: 2%;
+    border-radius: 3%;
+    color:white;
+    background-color:blue;
+    
+}
+#output {
+    border: 2px solid black;
+    height: 10vh;
+    width: 33%;
+    margin: 1rem;
+    padding: 1rem;
+    margin-top: 3%;
+    margin-left: 32%;
+    border-radius: 4px;
+    color: red;
+    font-size: 30px;
+}
+.pragraph{
+    color:white;
+    text-align: center;
+    margin-top: 5%;
+    font-size: 35px;
+    font-family: 'Kalam', cursive;;
+}
